@@ -2,6 +2,15 @@
 
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
+red = "R: red"
+orange = "O: orange"
+green = "G: green"
+blue = "B: blue"
+indigo = "I: indigo"
+violet = "V: violet"
+
 def display_rainbow(colors)
-  put ""
+  put "The colors of the rainbow are:"
+  put "colors[0]"
+end
   
