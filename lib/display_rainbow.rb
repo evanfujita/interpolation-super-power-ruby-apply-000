@@ -10,7 +10,7 @@ indigo = "I: indigo"
 violet = "V: violet"
 
 def display_rainbow(colors)
-  put "The colors of the rainbow are:"
-  put "colors[0]"
+  puts "The colors of the rainbow are:"
+  puts "colors[0]"
 end
   
