@@ -12,5 +12,7 @@ violet = "V: violet"
 def display_rainbow(colors)
   puts "The colors of the rainbow are:"
   puts "#{colors[0]}"
+  puts "#{colors[1]}"
+  puts "#{colors[2]}"
 end
   
